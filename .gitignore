@@ -64,3 +64,5 @@ dist/
 
 ## Docker
 docker-compose.yml
+## package-lock
+package-lock.json
